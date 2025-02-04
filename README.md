@@ -3,7 +3,7 @@
 
 What Domains do you have to block?
 
-beacon-fullpage-predictor.goguardian.com
+c
 
 ext.administrators.net.daraz.com
 
@@ -67,10 +67,20 @@ cdn.ampproject.org
 
 safesearch.googleapis.com
 
-Method 1 NextDNS 
+Method 1 host your own DNS 
+
 Step 1 register for https://my.nextdns.io
+
 Step 2 in the Denylist add all the sites i put to block
+
 step 3 copy that DNS IP into your chromebook.
 
-Method 2 Rooted Android + VPN + Root Module 
+Method 3Use my DNS
+
+Use this DNS 
+
+45.90.28.171
+45.90.30.171
+
+Method 3 Rooted Android + VPN + Root Module 
 (coming soon)
