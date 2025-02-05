@@ -73,14 +73,18 @@ Step 1 register for https://my.nextdns.io
 
 Step 2 in the Denylist add all the sites i put to block
 
-step 3 copy that DNS IP into your chromebook.
+step 3 copy the DNS IP into your chromebook.
 
 # Method 2 Use my DNS
 
-Use this DNS 
+Step 1 Use this DNS 
 
 45.90.28.171
+
 45.90.30.171
+
+Step 2 
+Put that IP into your chromebook DNS settings.
 
 # Method 3 Rooted Android + VPN + Root Module 
 (coming soon)
