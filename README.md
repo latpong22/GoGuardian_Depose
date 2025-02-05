@@ -1,4 +1,9 @@
 # GoGuardian_Depose
+
+# Why is it called GoGuardian Depose?
+This is because i used the name of the software and the verb "depose" since it means "To remove from a throne or other high position".
+This is representive of what GoGuardian Depose does since it strips the spyware of it control and ability to censor your access to sites.
+
 # What is the Basic Enforcment Policy?
 
 This is a nickname for the fact that GoGuardian keeps a HARD block list which is blocks that can't be removed when the policy is redownloaded. 
