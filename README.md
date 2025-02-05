@@ -1,5 +1,5 @@
 # GoGuardian_Depose
-# What is the Basic Enforcment Policy 
+# What is the Basic Enforcment Policy?
 
 This is a nickname for the fact that GoGuardian keeps a HARD block list which is blocks that can't be removed when the policy is redownloaded. 
 Like for example GoGuardian still blocks going to IP addreses even after you redownload the policy. 
