@@ -1,7 +1,11 @@
 # GoGuardian_Depose
+# What is the Basic Enforcment Policy 
+
+This is a nickname for the fact that GoGuardian keeps a HARD block list which is blocks that can't be removed when the policy is redownloaded. 
+Like for example GoGuardian still blocks going to IP addreses even after you redownload the policy. 
+Since most policy's change your wifi to a orginzation apporved one if in range after siging in just connecting to it before won't work.
+
 # How to easily bypass GoGuardian with a DNS blocking + setup a hotspot that uses a VPN to bypass web blocks.
-
-
 
 What Domains do you have to block?
 
@@ -75,6 +79,12 @@ Step 2 in the Denylist add all the sites i put to block
 
 step 3 copy the DNS IP into your chromebook.
 
+Step 4
+Go to chrome-extension://haldlgldplgnggkjaafhelgiaglafanh 
+
+Step 5
+Flip the "allow file access" switch to trigger a reset and redownload of the blocking and enforcment policy
+
 # Method 2 Use my DNS
 
 Step 1 Use this DNS 
@@ -85,6 +95,12 @@ Step 1 Use this DNS
 
 Step 2 
 Put that IP into your chromebook DNS settings.
+
+Step 3
+Go to chrome-extension://haldlgldplgnggkjaafhelgiaglafanh 
+
+Step 4
+Flip the "allow file access" switch to trigger a reset and redownload of the blocking and enforcment policy
 
 # Method 3 Rooted Android + VPN + Root Module 
 
