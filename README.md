@@ -8,7 +8,7 @@ This is representive of what GoGuardian Depose does since it strips the spyware 
 
 This is a nickname for the fact that GoGuardian keeps a HARD block list which is blocks that can't be removed when the policy is redownloaded. 
 Like for example GoGuardian still blocks going to IP addreses even after you redownload the policy. 
-Since most policy's change your wifi to a orginzation apporved one if in range after siging in just connecting to it before won't work.
+Since most chromebook policy's change your wifi to a orginzation apporved one if in range after siging in just connecting to it before won't work.
 
 # How to easily bypass GoGuardian with a DNS blocking + setup a hotspot that uses a VPN to bypass web blocks.
 
