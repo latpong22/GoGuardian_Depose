@@ -116,7 +116,7 @@ Step 1
 Download the module and flash it to your root app Apatch/Magisk
 
 Step 2
-Download https://github.com/Mygod/VPNHotspot instll it and give it root.
+Download https://github.com/Mygod/VPNHotspot install it and give it root.
 
 Step 3 
 Download a VPN Proton or Mullvad are good.
