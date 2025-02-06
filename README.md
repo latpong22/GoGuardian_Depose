@@ -1,4 +1,4 @@
-# GoGuardian_Depose
+# GoGuardian Depose
 
 # Why is it called GoGuardian Depose?
 This is because i used the name of the software and the verb "depose" since it means "To remove from a throne or other high position".
