@@ -93,10 +93,18 @@ Flip the "allow file access" switch to trigger a reset and redownload of the blo
 # Method 2 Use my DNS
 
 Step 1 Use this DNS 
+IPV4
 
-45.90.28.171
+45.90.28.125
 
-45.90.30.171
+45.90.30.125
+
+IPV6 
+
+2a07:a8c0::d7:b84b  
+
+2a07:a8c1::d7:b84b.
+
 
 Step 2 
 Put that IP into your chromebook DNS settings.
