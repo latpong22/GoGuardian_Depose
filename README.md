@@ -90,6 +90,8 @@ Go to chrome-extension://haldlgldplgnggkjaafhelgiaglafanh
 Step 5
 Flip the "allow file access" switch to trigger a reset and redownload of the blocking and enforcment policy
 
+Step 6 type in about:inducebrowsercrashforrealz or chrome://inducebrowsercrashforrealz (this is needed in version 135 of chrome OS and later)
+
 # Method 2 Use my DNS
 
 Step 1 Use this DNS 
@@ -103,7 +105,7 @@ IPV6
 
 2a07:a8c0::d7:b84b  
 
-2a07:a8c1::d7:b84b.
+2a07:a8c1::d7:b84b
 
 
 Step 2 
@@ -114,6 +116,8 @@ Go to chrome-extension://haldlgldplgnggkjaafhelgiaglafanh
 
 Step 4
 Flip the "allow file access" switch to trigger a reset and redownload of the blocking and enforcment policy
+
+Step 5 type in about:inducebrowsercrashforrealz or chrome://inducebrowsercrashforrealz (this is needed in version 135 of chrome OS and later)
 
 # Method 3 Rooted Android + VPN + Root Module 
 
@@ -149,5 +153,7 @@ Go to chrome-extension://haldlgldplgnggkjaafhelgiaglafanh
 
 Step 10 
 Flip the "allow file access" switch to trigger a reset and redownload of the blocking and enforcment policy
+
+Step 11 type in about:inducebrowsercrashforrealz or chrome://inducebrowsercrashforrealz (this is needed in version 135 of chrome OS and later)
 
 
